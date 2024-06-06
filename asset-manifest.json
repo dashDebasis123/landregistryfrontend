@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/landregistryfrontend/static/css/main.b8efee40.css",
+    "main.js": "/landregistryfrontend/static/js/main.7c5c3ff8.js",
+    "static/js/626.66faff82.chunk.js": "/landregistryfrontend/static/js/626.66faff82.chunk.js",
+    "static/js/58.a9500825.chunk.js": "/landregistryfrontend/static/js/58.a9500825.chunk.js",
+    "static/js/787.be41429e.chunk.js": "/landregistryfrontend/static/js/787.be41429e.chunk.js",
+    "index.html": "/landregistryfrontend/index.html",
+    "main.b8efee40.css.map": "/landregistryfrontend/static/css/main.b8efee40.css.map",
+    "main.7c5c3ff8.js.map": "/landregistryfrontend/static/js/main.7c5c3ff8.js.map",
+    "626.66faff82.chunk.js.map": "/landregistryfrontend/static/js/626.66faff82.chunk.js.map",
+    "58.a9500825.chunk.js.map": "/landregistryfrontend/static/js/58.a9500825.chunk.js.map",
+    "787.be41429e.chunk.js.map": "/landregistryfrontend/static/js/787.be41429e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8efee40.css",
+    "static/js/main.7c5c3ff8.js"
+  ]
+}
